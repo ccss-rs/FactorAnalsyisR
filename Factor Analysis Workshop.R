@@ -6,6 +6,13 @@
 
 ## Libraries  ----
 # install.packages()
+install.packages("lavaanPlot")
+install.packages("lavaan")
+install.packages("semPlot")
+install.packages("semTools")
+install.packages("psychTools")
+install.packages("tidyverse")
+install.packages("corrplot")
 
 library(lavaan)
 library(lavaanPlot)
