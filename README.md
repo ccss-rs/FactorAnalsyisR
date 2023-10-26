@@ -6,10 +6,10 @@ Open R by double clicking on R Script file 'Factor Analysis Workshop.R' This wil
 May need to install the packages in code below.  
 
 
-install.packages("lavaanPlot")
-install.packages("lavaan")
-install.packages("semPlot")
-install.packages("semTools")
-install.packages("psychTools")
-install.packages("tidyverse")
-install.packages("corrplot")
+install.packages("lavaanPlot")  
+install.packages("lavaan")  
+install.packages("semPlot")  
+install.packages("semTools")  
+install.packages("psychTools")  
+install.packages("tidyverse")  
+install.packages("corrplot")  
